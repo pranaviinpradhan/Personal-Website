@@ -11,19 +11,19 @@ h1{
     font-size: 90px;
     margin:50,auto,0,auto;
     font-family: 'Sacramento', cursive;
-    color:#FFD700;
+    color:#FDFFCD;
 }
 h2{
     font-size: 40px;
     font-family: 'Montserrat', sans-serif;
-    color:#9951FF;
+    color:#FFEBBB;
 }
 h3{
     font-family: 'Montserrat', sans-serif;
-    color:#9951FF;
+    color:#FFEBBB;
 }
 .top-container{
-    background-color:#6900FF;
+    background-color:#E0FFCD;
     position: relative;
     padding:100px;
 
@@ -33,7 +33,7 @@ h3{
    
 }
 .bottom-container{
-    background-color: #9951FF;
+    background-color: #FFCAB0;
     
 }
 .pro{
